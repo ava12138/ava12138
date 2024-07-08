@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭This is my task on generating distractors of multichoice-questions with LLMs 
+🔭This is my task on generating distractors of multichoice-questions using LLMs 
 <!--
 **ava12138/ava12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
